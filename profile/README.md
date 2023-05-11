@@ -1,9 +1,5 @@
-<h1 align="center">Optical Raze</h1>
-
-***<p align="center">"We Build Websites and Stuff"</p>***
-
-* Web Design
-* Web Development
+# Services
+------
+## Branding
+* Brand Color Scheme
 * Logo Design
-* Branding
-* Advertising
