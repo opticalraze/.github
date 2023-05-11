@@ -1,3 +1,1 @@
-# Optical Raze
-
-## Web Development
+We Build Websites and Stuff
