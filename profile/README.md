@@ -6,7 +6,7 @@
 **We will design an awesome website that will look good on both mobiles and on desktops**
 
 ## Web Development 
-**All of our websites are custom coded using <a href="https://vuejs.org/" target="_blank">VueJS</a> and <a href="https://tailwindcss.com/" target="_blank">TailwindCSS</a>**
+**All of our websites are custom coded using VueJS and TailwindCSS**
 
 ## Branding
 * Brand Color Scheme
