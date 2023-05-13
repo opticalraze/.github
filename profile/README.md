@@ -3,7 +3,7 @@
 <h1 align="center">Services</h1>
 
 ## Web Design
-**We will design an awesome website that will look good on both mobiles and on desktops**
+**We design awesome websites that will look good on mobiles and on desktops**
 
 ## Web Development 
 **All of our websites are custom coded using VueJS and TailwindCSS**
